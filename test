@@ -1,6 +1,9 @@
 remote data
 remote data
+<<<<<<< HEAD
 local data
 local data
-local data
-local data
+======= git remote change =======
+rrrrr
+ddddd
+>>>>>>> 142f3ecc97fdc6b6c39955103704efe7a2b69bae
